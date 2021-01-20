@@ -1,45 +1,907 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hi.hijoe.net</id>
-    <title>Gridea</title>
-    <updated>2021-01-08T05:57:57.946Z</updated>
+    <id>https://hikid.vip</id>
+    <title> 欢乐巴士</title>
+    <updated>2021-01-20T05:19:11.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hi.hijoe.net"/>
-    <link rel="self" href="https://hi.hijoe.net/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://hi.hijoe.net/images/avatar.png</logo>
-    <icon>https://hi.hijoe.net/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <link rel="alternate" href="https://hikid.vip"/>
+    <link rel="self" href="https://hikid.vip/atom.xml"/>
+    <subtitle>3-12岁儿童通识启蒙教育</subtitle>
+    <logo>https://hikid.vip/images/avatar.png</logo>
+    <icon>https://hikid.vip/favicon.ico</icon>
+    <rights>All rights reserved 2021,  欢乐巴士</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hi.hijoe.net/post/hello-gridea/</id>
-        <link href="https://hi.hijoe.net/post/hello-gridea/">
+        <title type="html"><![CDATA[BBC-CBeebies幼儿英语启蒙：Something Special]]></title>
+        <id>https://hikid.vip/post/BBC-SomethingSpecial/</id>
+        <link href="https://hikid.vip/post/BBC-SomethingSpecial/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2021-01-15T06:23:18.000Z</updated>
+        <content type="html"><![CDATA[<p>
+  <p>
+    这是BBC CBeebies一套针对学龄前儿童，介绍默启通手语的节目。“默启通”( Makaton)是一个支持语言的手势系统。是否要使用“默启通”通常由言语和语言治疗专家和家长一起决定。手势可以给儿童视觉提示，从而帮助他们理解和交流自己的需求。那些在处理抽象信息方面有障碍的儿童很又理解词汇意思，“默启通”对这类儿童特别有用。
+  </p>
+  <p>
+    外国人交流时丰富的体态语，都是由儿童时代培养起来的，儿童阶段的脑，十分擅长学习语言，3~4岁开始至10岁是学外语的最佳年龄。如果能尽早教导他读书与学习，那么他就会越聪明，这个黄金阶段是十分重要的。
+  </p>
+  <p>
+    Something Special （简称SS）可以两用，既是手语教材，也是语言启蒙教材。每集一个话题，一个场景，一个教学内容，有能力的家长可以据此展开系列教学活动.
+  </p>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+    <div class="image-container" style="margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-768205fc04aaee3f.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+  <p>
+    优点：
+  </p>
+  <p>
+    1.涉及内容广泛：学校、天气、海边、机场、农场、节日、音乐、公园、咖啡店等等。
+  </p>
+  <p>
+    2.语速慢，重复多，套路固定。有手势，小朋友可以亲身体验。有时候手头没有其他辅助材料（比如图片），要和小朋友说个事物，又不想用汉语（因为不想变成语言翻译的方式），那么做个手势是很方便的。这些手势和英语发音的对应和翻译不一样，手势是辅助的，往往是抽象事物的一些典型特点，让表达更加直观。里面不是只有手势，有很多其他的语句交流。
+  </p>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+    <div class="image-container" style="margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-e3ce53c76b10d4b8.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+    <div class="image-container" style="margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-e599f0952c188db5.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC-儿童睡前故事Bedtime Stories]]></title>
+        <id>https://hikid.vip/post/BBC-BedtimeStories/</id>
+        <link href="https://hikid.vip/post/BBC-BedtimeStories/">
+        </link>
+        <updated>2021-01-15T06:22:20.000Z</updated>
+        <content type="html"><![CDATA[<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  BBC儿童睡前故事 CBeebies Bedtime Stories》是BBC儿童频道CBeebies出品，献给给孩子们的睡前故事。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+  <div class="image-container" style="background-color:transparent;margin:0px auto;">
+    <div class="image-container-fill">
+    </div>
+    <div class="image-view">
+      <img class="" src="/images/33280-f855a8df49f1d268.jpg" style="width:auto;height:auto;" /> 
+    </div>
+  </div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  由BBC的播音员主讲，播音员现场播讲画面和故事绘本动态图案交替出现，表情生动，绘本精美，给孩子耳目一新的感受。
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+  <div class="image-container" style="background-color:transparent;margin:0px auto;">
+    <div class="image-container-fill">
+    </div>
+    <div class="image-view">
+      <img class="" src="/images/33280-6aa5350aec3be38f.jpg" style="width:auto;height:auto;" /> 
+    </div>
+  </div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  《BBC睡前故事》自2009年3月在BBC儿童频播出，每集7分钟左右，选用的有声故事内容虽然简单，但英音纯正，速度适中，语调顿挫且充满感情，适合做英文听力练习使用，适合3岁以上的孩子观看收听。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+  <div class="image-container" style="background-color:transparent;margin:0px auto;">
+    <div class="image-container-fill">
+    </div>
+    <div class="image-view">
+      <img class="" src="/images/33280-35c618c852c8e56d.jpg" style="width:auto;height:auto;" /> 
+    </div>
+  </div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <span style="font-weight:600;">如何利用BBC 儿童睡前故事 CBeebies Bedtime Stories呢？</span> 
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <span style="font-weight:600;">1.重新爱上绘本：</span>可以利用这套视频，找到之前孩子不感兴趣的绘本，让他重新观看，相信通过BBC明星们的演绎会有不同效果。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <span style="font-weight:600;">2.脱离视频磨耳朵：</span>虽然这套有几百个故事，不要急于都给孩子看一遍。如果发现孩子特别钟爱某个故事，鼓励孩子反复的看，力图孩子建立对故事的整个请教的理解与喜爱。当孩子已经建立每句话对应的具体情景，建议试脱离视频直接听音频，听的期间与听后，可以尝试说出一个句子，让孩子说说看什么意思，认下孩子是否真的理解。当然会有一些技巧，不要让孩子觉得你在考试。用心与细心，这是非常事半功倍的好办法。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+  <span style="font-weight:600;">3.睡前看一集：</span>本片每集一个独立的小故事，高清晰，适合睡前看一集，锻炼英语听力，顺利入睡。
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBC-儿童生活常识纪录片-Do You Know]]></title>
+        <id>https://hikid.vip/post/BBC-doyouknow/</id>
+        <link href="https://hikid.vip/post/BBC-doyouknow/">
+        </link>
+        <updated>2021-01-15T06:21:27.000Z</updated>
+        <content type="html"><![CDATA[<p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    今天给大家推荐一部科普知识主题的纪录片，希望它能激发孩子不断探索这个世界的欲望，变得更加热爱生活，热爱知识，并享受它们带来的精神愉悦。
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    这套科普纪录片，是由<span style="font-weight:600;">BBC</span>打造的<span style="font-weight:600;">Do</span>&nbsp;<span style="font-weight:600;">You</span>&nbsp;<span style="font-weight:600;">Know</span>你知道吗?系列，每集14分钟，不会让孩子眼睛太疲劳，而且最主要是内容很接地气，讲的都是身边的生活常识。
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    对于生活常识，我们成人习以为常，但在孩子的眼中，这些知识都是很神奇的，如果能解释背后的来龙去脉，会让孩子掌握更多常识，更加利于成长。
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    比如，爆米花是怎么做出来的？
+  </p>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+    <div class="image-container" style="background-color:transparent;margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-4a3b4704a615c9f9.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    消防水龙头是怎么把水压出去的？
+  </p>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+    <div class="image-container" style="background-color:transparent;margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-67416d69ea47fbab.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    坐旋转木马时，木马是如何上下运动的？
+  </p>
+  <div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+    <div class="image-container" style="background-color:transparent;margin:0px auto;">
+      <div class="image-container-fill">
+      </div>
+      <div class="image-view">
+        <img class="" src="/images/33280-e375c1de92268ddf.jpg" style="width:auto;height:auto;" />
+      </div>
+    </div>
+  </div>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    这些纪录片除了帮助孩子了解身边生活的常识以及背后的知识，还可以顺便练习英语听力，一举两得，何乐而不为呢？
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    部分视频目录如下：
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;1. 水滑梯和冰淇淋蛋筒
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;2. 旋转马和蜡笔
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;3. 公共汽坡道和道路
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;4. 磁铁和玩具
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;5. 洗碗机
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;6. 爆米花&nbsp;
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;7. 直升机旋翼 和三轮
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;8. 雨伞和洗车
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;9. 仓轮和 昆虫旅馆
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;10.蛋糕 和游乐中心
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;11. 巴踏板和道路
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;12. 消防水龙和反光带
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;13. 碳酸饮料和酸奶
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;14. 垃圾车和报纸
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;15. 钢琴和鼓
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;16. 热水和彩条牙膏
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;17. 运河水闸 和门
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;18. 集装箱船和气泡膜
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;19. 猫洞和羊毛帽
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;20. 操场和花盆
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;21. 钟表和餐具
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;22. 验光和眼镜
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;23. 理发推子和芭蕾舞鞋
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;24. 睡袋和床垫
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;25.红绿灯和报警灯
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;26. 迪斯科球和拼图游戏
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;27. 救艇和混凝土
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;28. 飞机和运动鞋
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;29. 铁轨和油漆
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;30. 洗手液和吸尘器
+  </p>
+  <p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+    &emsp;&emsp;31. 滑冰场 和充气城堡
+  </p>
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲子打卡思维导图]]></title>
+        <id>https://hikid.vip/post/2019-12-10-mindmap/</id>
+        <link href="https://hikid.vip/post/2019-12-10-mindmap/">
+        </link>
+        <updated>2021-01-15T05:14:41.000Z</updated>
+        <content type="html"><![CDATA[<img src="/images/qzdk.png" width="680" />
+<p>
+	说到亲子打卡，不少宝妈宝爸会选用思维导图作为打卡工具，所谓一图胜千言，只需一张思维导图，无需下载额外的打卡程序，就可以满足你的使用需求。那么怎么才能做一张令人满意的打卡脑图呢？在这里推荐各位宝妈宝爸使用ProcessOn。
+ </p>
+<p>
+作品参考 <a href="https://mp.processon.com/view/link/5df0a4c2e4b03d4e28b1f107"  target="_blank">https://mp.processon.com/view/link/5df0a4c2e4b03d4e28b1f107</a>
+</p>
+<p>
+	ProcessOn是一款免费的在线作图工具，无需下载安装，只需打开网站，注册，然后一切就可以搞定了，这一切甚至可以在微信中操作完成。ProcessOn支持流程图、思维导图、UI原型图、UML、网络拓扑图、组织结构图等多种类型图，非常方便制作，制作好的图形可以进行导出，不但支持在线操作, 还支持微信小程序。 除了工具属性外，ProcessOn 也是一个分享社区，用户将自己有价值的知识绘制成图后发布到ProcessOn平台，与相关行业大V在站内进行交流，或者从别人的模板作品中汲取灵感，丰富自己的作品。
+ </p>
+<p>
+	如果想做一张类似的打卡思维导图，快来点击注册试一下吧。<br> 
+<a href="https://www.processon.com/i/5ad7f2f5e4b0b74a6de53140"  target="_blank">https://www.processon.com/i/5ad7f2f5e4b0b74a6de53140</a> 
+</p>
+<p>
+相关资源获取，扫码关注微信公众号：<br>          
+<img src="/images/joybuswx.jpg"  alt="上欢乐巴士-JoyBus.TK" width="200"/>
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MathStart数学启蒙(1-3辑）高清PDF63本！既学英语又启蒙数学]]></title>
+        <id>https://hikid.vip/post/2019-10-15-math-start/</id>
+        <link href="https://hikid.vip/post/2019-10-15-math-start/">
+        </link>
+        <updated>2021-01-15T05:13:33.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="/images/MathStart.jpg" alt="MathStart_JoyBus.TK" loading="lazy"></figure>
+<p>
+	这套数学绘本，由美国著名作家Stuart J. Murphy（斯图尔特·J·墨菲）和30多位国际插画家合作绘制。<br />
+由美国知名出版集团Harper Collins Children’s Book（哈珀·柯林斯）出版，是Harper
+Collins的长期畅销丛书，被美国图书馆协会评为“青少年非虚构系列十佳图书系列之一”，在国外已经售出1200多万本，深受美国家长老师和孩子喜欢。
+</p>
+<p>
+	它不会上来就让孩子从1数到几，而是在故事中让孩子逐渐有大小，多少，高矮，长短等等具象的概念，进而循序渐进地引入更深层次的内容。
+</p>
+<p>
+	MathStart系列是讲授基础的数学知识的读物，分为L1、L2、L3三个级别共63本，适合于Age 3-7的小朋友。
+</p>
+<p>
+	&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;为了让孩子对日常生活中的一些数学概念和知识有个印象，Mathstart的作者Stuart J. Murphy就编了一套取材于日常生活故事的书来潜移默化地教孩子一些数学概念，比如给袜子分类就是介绍颜色、大小、（花纹）形状等数学概念，还有那个Bug
+Dacne其实就是在介绍前、后、上和下等表示方位的数学概念。
+</p>
+<p>
+	&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;讲这些枯燥的数学概念放到故事里面，每一本Mathstart的故事书都会对某一个或多个数学概念多次重复展示，孩子想不记住也不容易了。另外，Mathstart后面还有activity的提示，在跟孩子一起读每本书之前，最好先翻到最后一页看看作者有些什么学习或活动建议，说不定会给你提供很好的思路哦。
+</p>
+<p>
+	&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Mathstart这系列跟哈考特(Harcourt)的Math Concept Reader系列很像，都是通过故事来展示数学概念。不过，Mathstart只有三个level。
+</p>
+<p>
+	&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;第一个level适合有亲子阅读规律且能有基本词汇，最起码sight
+words要能认得七七八八的孩子来做亲子阅读，因为，虽然也是故事书，切语言不难，但毕竟还是涉及到数学概念，而且还会重复出现数学概念，孩子如果听力理解和阅读能力才刚起步，就还要理解数学概念，那可能就有点难度。不过，也可以先把Mathstart的level 1作为绘本读，里面的数学概念可以慢慢消化，先留个印象。即使这样，那也还是希望孩子的听力能力比较强，能在爸爸妈妈的帮助下认识基本的单词。
+</p>
+<p>
+	&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Mathstart的level 2比level
+1难一些，如果level 1每本都没有问题了，那就可以开始Level
+2的学习了。如果level 1学完，level 2感觉有点难，那就可以先学哈考特(Harcourt)的Math
+Concept Reader G1的红色系列。然后再学level 2。学完level
+2，可以接下来学哈考特(Harcourt)的Math
+Concept Reader G1的蓝色系列。<br />
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Mathstart的level 3可以和哈考特(Harcourt)的Math Concept Reader
+G1的绿色系列一起学，也可以和哈考特(Harcourt)的Math
+Concept Reader G2的红色或蓝色系列一起学。
+</p>
+<p>
+	<br />
+MathStart目录：
+</p>
+<p>
+	Mathstart L1 01 Beep,
+Beep, Vroom Vroom!<br />
+Mathstart L1 02 The Best Bug Parade<br />
+Mathstart L1 03 Bug Dance<br />
+Mathstart L1 04 Circus Shapes<br />
+Mathstart L1 05 Double the Ducks<br />
+Mathstart L1 06 Every Buddy Counts<br />
+Mathstart L1 07 the greatest gymnast of all<br />
+Mathstart L1 08 henry the fourth<br />
+Mathstart L1 09 A House for Birdie<br />
+Mathstart L1 10 It's About Time!<br />
+Mathstart L1 11Jack the Builder<br />
+Mathstart L1 12 just enough carrots<br />
+Mathstart L1 13 leaping lizards<br />
+Mathstart L1 14 MIGHTY MADDIE<br />
+Mathstart L1 15 missing mittens<br />
+Mathstart L1 16 Monster Musical Chair<br />
+Mathstart L1 17 One...Two...Three...Sassafras<br />
+Mathstart L1 18 A Pair of Socks<br />
+Mathstart L1 19 Rabbit's Pajama Party<br />
+Mathstart L1 20 Seaweed Soup<br />
+Mathstart L1 21 3 Little Firefighters<br />
+<br />
+Mathstart L2 01 Animals on Board<br />
+Mathstart L2 02 The Best Vacation Ever<br />
+Mathstart L2 03 Bigger, Better, Best!<br />
+Mathstart L2 04 Captain Invincible and the Space<br />
+Mathstart L2 05 Coyotes All Around<br />
+Mathstart L2 06 Elevator Magic<br />
+Mathstart L2 07 A Fair Bear Share<br />
+Mathstart L2 08Get Up and Go!<br />
+Mathstart L2 09 give me half<br />
+Mathstart L2 10 Let’s Fly a Kite<br />
+Mathstart L2 11 Mall Mania<br />
+Mathstart L2 12 More or Less<br />
+Mathstart L2 13 100 DAYS OF COOL<br />
+Mathstart L2 14 Pepper’s Journal<br />
+Mathstart L2 15 Probably Pistachio<br />
+Mathstart L2 16 Racing Around<br />
+Mathstart L2 17 Same Old Horse<br />
+Mathstart L2 18 Spunky Monkeys on Parade<br />
+Mathstart L2 19 The Sundae Scoop<br />
+Mathstart L2 20 SUPER SAND<br />
+Mathstart L2 21&nbsp;&nbsp;Tally O’Malley<br />
+<br />
+Mathstart L3 01 Betcha!<br />
+Mathstart L3 02 Dave’s Down to Earth Rock Shop<br />
+Mathstart L3 03 Dinosaur Deals<br />
+Mathstart L3 04 Divide and Ride<br />
+Mathstart L3 05 Earth Day Hooray!<br />
+Mathstart L3 06 Game Time<br />
+Mathstart L3 07 The Grizzly Gazette<br />
+Mathstart L3 08 Hamster Champs<br />
+Mathstart L3 09 Jump, Kangaroo, Jump!<br />
+Mathstart L3 10 Lemonade for Sale<br />
+Mathstart L3 11 Less Than Zero<br />
+Mathstart L3 12 The Penny Pot<br />
+Mathstart L3 13 Polly’s Pen Pal<br />
+Mathstart L3 14 Ready, Set, Hop!<br />
+Mathstart L3 15 Rodeo Time<br />
+Mathstart L3 16 ROOM for RIPLEY<br />
+Mathstart L3 17 Safari Park<br />
+Mathstart L3 18 Shark swimathon<br />
+Mathstart L3 19 sluggers car wash<br />
+Mathstart L3 20 Too Many Kangaroo Things To Do<br />
+Mathstart L3 21 Treasure Map
+</p>
+<p>
+延伸阅读：<br />
+<a href="http://mini.eastday.com/bdmip/180414224106084.html" target="_blank">MathStart 数学启蒙:学数学，学英语，还能锻炼身体?</a> 
+<br />
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's AumSum Time发现生活中的小奥妙，学习数理化]]></title>
+        <id>https://hikid.vip/post/2020-01-13-aumsum/</id>
+        <link href="https://hikid.vip/post/2020-01-13-aumsum/">
+        </link>
+        <updated>2021-01-15T05:12:45.000Z</updated>
+        <content type="html"><![CDATA[<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-bf733b6b6a67dec9.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	《It's AumSum Time》节目，目前国内首发！
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	该节目努力制作出具有高度创造性和新鲜感的物理、化学和生物学视频。这个节目可以证明是有用的，学生在学校，学院学习，以及对所有年龄的人，谁都有一个好奇的科学头脑。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	2014年11月24日在Youtbe上线，目前观看次数2亿人次，订阅量达120万用户。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<span style="font-weight:600;">资源目录如下：</span> 
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	01 - Back to School. Videos for Kids 回到学校，儿童视频
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	02 - Maths # Primary 初级数学
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	03 - Maths # Advanced 高级数学
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	04 - Physics Videos 物理视频
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	05 - Chemistry Videos 化学视频
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	06 - Biology Videos 生物学视频
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	07 - Primary Science Videos 初级科学视频
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	08 - Learn Science with AumSum 学习科学
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	09 - Learning Physics, Chemistry &amp; Biology 学习物理、化学和生物学
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	10 - Amazing Facts 惊人的事实
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-0bf65489be3f443e.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-82ce12b9e2f882ad.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-18d1e57263a275ac.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<span style="font-weight:600;">温馨提示：</span>建议5岁以上的孩子观看，有英语基础的孩子观看最好！词汇量1000+以上！
+</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids Pages（Easy English）英语自然拼读学习]]></title>
+        <id>https://hikid.vip/post/2020-01-14-kidspage/</id>
+        <link href="https://hikid.vip/post/2020-01-14-kidspage/">
+        </link>
+        <updated>2021-01-15T05:10:39.000Z</updated>
+        <content type="html"><![CDATA[<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-eccaf0df1a6cf6b3.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	<span style="font-weight:600;">官网介绍：</span> 
+</p>
+<p>
+	Kids' Pages节目提供儿童、家长和教师的教育视频，介绍英语单词，帮助建立和提高词汇，是教育工作者的重要教学工具。这些图片很适合学习生词，内容丰富，主题多样。将定期添加新视频。我们希望我们的视频对希望以娱乐方式学习英语的所有年龄段的学生都非常有用！
+</p>
+<p>
+	Kids Pages节目，是去年2018年9月1日开始在国外Youtube平台上线，目前订阅量15万家庭用户，播放量达600多万。足以证明这款节目很受用户喜爱。
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-85f76fe42c569248.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-ab3c60984e1ba707.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-21cada818b999e55.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-517347608b4dca93.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-f620212fca92c8e7.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p>
+	官网地址：<a href="https://kids-pages.com" target="_blank">https://kids-pages.com/</a> 
+</p>
+<p>
+	官网有提供闪卡、工作表、涂色、字母表，都是免费下载的，有需要的用户，可以到官网自行下载。
+</p>
+<p>
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;">
+	<div class="image-container" style="margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-f3269903d5da5b02.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain Candy TV汽车动画英语启蒙]]></title>
+        <id>https://hikid.vip/post/2020-01-16-candytv/</id>
+        <link href="https://hikid.vip/post/2020-01-16-candytv/">
+        </link>
+        <updated>2021-01-15T05:09:48.000Z</updated>
+        <content type="html"><![CDATA[<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-79c20ff9b5cc4dac.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	《Brain Candy TV》这是一个关于各种车的节目，围绕各种车展开的英语启蒙。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	该节目于2014年开始在Youtube频道上线，目前播放量达到2.1亿次。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<span style="font-weight:600;">下面是官网简介自述：</span> 
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	早日学习，共创美好未来！
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	这是我们在Brain Candy TV为儿童制作有趣的教育视频。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	您的孩子将喜欢学习ABC，数字，颜色和更多的帮助下，我们的乐趣，动作包装的汽车动画，包括怪物卡车和自卸卡车，再加上我们可爱的狗Lizzy。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	这个频道的目标是让你的孩子在学校和生活中获得更大的自信和成功。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	最近的研究表明，从出生到3岁之间的学习对孩子的认知和情感发展至关重要，所以让我们充分利用他们的屏幕时间，让他们获得应有的开始！
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	随着孩子的成长，我们课题的技能水平也会越来越高，更加强调以有趣的方式学习数学，并向他们介绍令人敬畏的科学奇迹。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<span style="font-weight:600;">视频截图</span> 
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-6e137b7be4fd9854.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-6c21a41e0092b9ab.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-f108c1e382914ca7.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream English Kids英语启蒙，和Matt叔叔一起学英语]]></title>
+        <id>https://hikid.vip/post/2020-01-11-dreameng/</id>
+        <link href="https://hikid.vip/post/2020-01-11-dreameng/">
+        </link>
+        <updated>2021-01-15T05:07:16.000Z</updated>
+        <content type="html"><![CDATA[<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-ca26a17cc7ae0308.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	Dream English Kids主人公叫Matt叔叔，也可以叫马特叔叔！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	马特曾在美国、西班牙、日本和泰国演出过他的歌曲演唱会！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	适合少儿、学龄前儿童、幼儿园、幼儿园、特殊需要儿童、ESL、EFL和学习英语的儿童以及自闭症儿童的歌曲。
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	手指家庭歌曲学习车辆，动物！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	用第一个单词系列练习拼写和阅读，你们看到了什么？视频！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	了解形状、颜色、数字、字母表、ABC歌曲、动物、野生动物、语音等等！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	儿童歌曲，儿童歌曲，车辆和运输，建筑卡车歌曲，色彩歌曲，圣诞和万圣节歌曲，语音等！
+</p>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-ac41d085b4e8e476.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-00a7b6e6e81c140f.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-8f357f125e72c47c.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-52492101ce64bf3a.jpg" style="width:auto;height:auto;" />
+		</div>
+	</div>
+</div>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Singing Walrus唱歌的海象-英语启蒙动画儿歌]]></title>
+        <id>https://hikid.vip/post/2020-01-15-walrus/</id>
+        <link href="https://hikid.vip/post/2020-01-15-walrus/">
+        </link>
+        <updated>2021-01-15T05:05:42.000Z</updated>
+        <content type="html"><![CDATA[<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-5b330f10d7b735a1.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<br />
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<span style="font-weight:600;">官网Youtube频道简介：</span> 
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	我们是教师和专业音乐家，为教师和家长制作有趣的儿童歌曲和其他教育媒体。我们的歌曲是互动的，很容易一起唱，而且很吸引人！
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	他们中的许多人都是用一种呼唤和回应的结构来写的，这种结构鼓励孩子们真正参与到音乐中来，以一种有趣的方式学习新的东西。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	作为充满激情的教育者，我们认识到孩子们不可思议的创造力和想象力，我们希望我们的海象歌唱世界将成为他们学习和享受的一个有趣的地方。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	The Singing Walrus是很简单基础的英文儿歌，包括颜色、数字、天气、水果等认知动画，画面简单色彩搭配和谐。特色是还包含学习如何书写26个英文字母的视频。
+</p>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-a8154280d40749ae.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-bb9eace08a4fe36c.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-424d8dc7e57b675e.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-a3d4aff1c8ff0f8f.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-a9871f8f604090c7.jpg" style="width:auto;height:auto;" /> 
+		</div>
+	</div>
+</div>
+<p style="color:#404040;font-family:Georgia, &quot;font-size:16px;background-color:#FFFFFF;">
+	<br />
+</p>
+<div class="image-package" style="margin:0px;text-align:center;font-size:0px;color:#404040;font-family:Georgia, &quot;background-color:#FFFFFF;">
+	<div class="image-container" style="background-color:transparent;margin:0px auto;">
+		<div class="image-container-fill">
+		</div>
+		<div class="image-view">
+			<img class="" src="/images/33280-b85002d2e585147c.jpg" style="width:auto;height:auto;" />
+		</div>
+	</div>
+</div>
 ]]></content>
     </entry>
 </feed>
