@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hikid.org</id>
     <title> 欢乐巴士</title>
-    <updated>2021-04-02T08:31:54.410Z</updated>
+    <updated>2021-05-08T08:12:10.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hikid.org"/>
     <link rel="self" href="https://hikid.org/atom.xml"/>
-    <subtitle>3-12岁儿童通识启蒙教育</subtitle>
+    <subtitle>0-12岁儿童通识启蒙教育</subtitle>
     <logo>https://hikid.org/images/avatar.png</logo>
     <icon>https://hikid.org/favicon.ico</icon>
     <rights>All rights reserved 2021,  欢乐巴士</rights>
